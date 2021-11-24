@@ -1,6 +1,6 @@
 # flutter_teamup
 
-Flutter application - TeamUp
+Flutter application - TeamUp :)
 
 ## Getting Started
 
